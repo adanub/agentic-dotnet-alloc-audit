@@ -1,0 +1,6 @@
+# Locally bootstrapped ilspycmd (dotnet tool install --tool-path .tools)
+.tools/
+# Python caches and scratch IL dumps
+__pycache__/
+*.pyc
+*.il
